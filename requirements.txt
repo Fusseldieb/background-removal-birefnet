@@ -10,6 +10,9 @@ python-dotenv
 pydantic
 numpy
 aiofiles
+timm
+kornia
+einops
 
 # torch
 # accelerate
@@ -17,8 +20,6 @@ aiofiles
 # spaces
 # pillow
 # numpy
-# timm
-# kornia
 # prettytable
 # typing
 # scikit-image
@@ -27,4 +28,3 @@ aiofiles
 # gradio
 # gradio_imageslider
 # loadimg>=0.1.1
-# einops
